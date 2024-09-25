@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  azorothz:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-25T23:20:30.039993+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 10ed4015cfcc43b1e7f0420aa204c1585932e49ff5f5bfafea7596952065de43
+    name: azorothz
+    type: application
+    urls:
+    - https://boomrtw.github.io/helm-charts/azorothz-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-09-25T23:20:30.039132+07:00"
